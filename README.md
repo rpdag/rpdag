@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rpdag
-- 👀 I’m interested in networking, bash, python, ansible, and everything else
-- 🌱 I’m currently learning everything?
+- 👀 I’m interested in networking, bash, python, and automation.
+- 🌱 I’m currently learning python and bash.
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
 
